@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Manisha Joshi</h1>
-<h3 align="center">I'm a sophomore who is eager to continue learning and expand my skillset as I work toward my goal in tech industry</h3>
+<h3 align="center">I'm a sophomore who is eager to expand my skillset y</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjljZTRkZmMyNjg4N2EzY2U5ODBmOGE3N2NiM2Y0ZDJmODkyNzI3YyZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 
