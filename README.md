@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **1227manishajoshi@gmail.com**
 
-- 📄 Resume https://drive.google.com/drive/u/0/my-drive
+- 📄 Resume https://drive.google.com/file/d/1r6X6sFw993FpI0ROb7CEr6qi4_nxDnRO/view?usp=sharing
 
 - ⚡ Fun fact **I can touch type at 65+ wpm**
 
