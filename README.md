@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at https://manisha-portfolioo.netlify.app/
+- 👨‍💻 Portfolio:  https://manisha-portfolioo.netlify.app/
 
 - 📫 How to reach me **1227manishajoshi@gmail.com**
 
-- 📄 Resume https://drive.google.com/file/d/1r6X6sFw993FpI0ROb7CEr6qi4_nxDnRO/view?usp=sharing
+- 📄 Resume: https://drive.google.com/file/d/1r6X6sFw993FpI0ROb7CEr6qi4_nxDnRO/view?usp=sharing
 
 - ⚡ Fun fact **I can touch type at 65+ wpm**
 
