@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://unrivaled-buttercream-700227.netlify.app/](https://unrivaled-buttercream-700227.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://unrivaled-buttercream-700227.netlify.app/](https://unrivaled-buttercream-700227.netlify.app/](https://manisha-portfolioo.netlify.app/)
 
 - 📫 How to reach me **1227manishajoshi@gmail.com**
 
