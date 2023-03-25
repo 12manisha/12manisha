@@ -13,7 +13,7 @@
 
 - 📄 Resume: https://drive.google.com/file/d/1r6X6sFw993FpI0ROb7CEr6qi4_nxDnRO/view?usp=sharing
 
-- ⚡ Fun fact **I can touch type at 65+ wpm**
+- ⚡ Fun fact **I can touch type at 70+ wpm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
