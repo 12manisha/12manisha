@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjljZTRkZmMyNjg4N2EzY2U5ODBmOGE3N2NiM2Y0ZDJmODkyNzI3YyZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 
-- 🌱 I’m currently learning **MERN stack**
+
 
 - 👨‍💻 Portfolio:  https://manisha-portfolioo.netlify.app/
 
