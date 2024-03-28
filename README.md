@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **1227manishajoshi@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1r6X6sFw993FpI0ROb7CEr6qi4_nxDnRO/view?usp=sharing](https://drive.google.com/file/d/16vDXNoWLlIG56ShMan8daVzTW2kBEWKB/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1r6X6sFw993FpI0ROb7CEr6qi4_nxDnRO/view?usp=sharing](https://drive.google.com/file/d/16vDXNoWLlIG56ShMan8daVzTW2kBEWKB/view?usp=sharing)](https://drive.google.com/file/d/1W9udhdYpnoGgnoKaLhJ-LwjCHbZMNjqJ/view?usp=sharing)
+
+- Portfolio : https://manishajoshi.netlify.app/
 
 - ⚡ Fun fact **I can touch type at 70+ wpm**
 
